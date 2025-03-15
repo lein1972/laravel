@@ -1,1 +1,1 @@
-capsula de pruebas unitarias
+capsula de conocimiento de pruebas unitarias
