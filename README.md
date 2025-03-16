@@ -1,1 +1,1 @@
-capsula de conocimiento de swagger
+capsula de conocimiento de documentacion con swagger en laravel
