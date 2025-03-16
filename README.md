@@ -1,2 +1,2 @@
 # laravel
-capsulas de conocimientos de proyectos laravel aplicables a cualquier lenguaje de programación
+ejemplo de arquitetura repositorios, servicios, interfaces, controladores, modelos
