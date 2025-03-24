@@ -1,2 +1,2 @@
 # laravel
-capsulas de conocimientos de proyectos laravel aplicables a cualquier lenguaje de programación
+capsulas de conocimienntos laravel datos dummy, database seeder, sqlite
